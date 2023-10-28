@@ -1,0 +1,8 @@
+tag - it is used to define action 
+      their are multiple tags for ex- <html><head><body><hr><br><p>
+      each tag needs to be closed by putting a slash before ex- </html></head></p>
+
+element - element is the amount of code which a particular tag contains till it closes
+ex - html would contain all the code inside it as its element
+     head would contain like title, but can't have body inside it
+     a p tag would caontain the paragraph inside it and that would be called it's element

@@ -1,0 +1,4 @@
+we would declare html by simply pressing ! and then enter it
+this tells the browser that the sourceit needs to render is html type
+In HTML the declaration is simple:
+<!DOCTYPE html>
