@@ -1,0 +1,3 @@
+comments are used to test our code on the web browser. 
+it does not include a certain part which we comment.
+it does not render it but the code would be their when we will view the page source.
